@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Puskesmas Apps</string>
+
+
+    <string name="JK1">Laki-Laki</string>
+    <string name="JK2">Perempuan</string>
+
+</resources>
